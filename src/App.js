@@ -73,3 +73,7 @@ const App = () => {
 }
 
 export default App;
+
+
+// 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
+// git push https://<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
