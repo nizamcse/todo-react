@@ -77,3 +77,7 @@ export default App;
 
 // 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
 // git push https://<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
+// git push https://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@github.com/nizamcse/todo-react.git
+// git remote set-url origin https://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@github.com/nizamcse/todo-react.git
+// git remote set-url origin https://nizamcse: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@github.com/nizamcse/todo-react.git
+// git remote add origin https://nizamcse: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@github.com/nizamcse/todo-react.git
